@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/rennegomes/rennegomes">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rennegomes&show_icons=true&theme=dark&locale=pt-br" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=rennegomes&show_icons=true&theme=dark&locale=pt-br" />
 </a>
 <a href="https://github.com/rennegomes?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rennegomes&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&locale=pt-br&cache_seconds=1800" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rennegomes&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&locale=pt-br&cache_seconds=1800" />
 </a>
 </div>
 
